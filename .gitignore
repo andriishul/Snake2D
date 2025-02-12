@@ -1,0 +1,17 @@
+﻿build/
+cmake-build-*/
+out/
+
+vs/
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.a
+*.ipch
