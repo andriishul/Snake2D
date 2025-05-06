@@ -1,0 +1,1818 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shulg\\source\\repos\\Snake2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shaders\\text.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shaders\\quad.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Snake2D\\engine\\.gitmodules||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Snake2D\\engine\\licence.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\InGameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\Snake2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\EndScreenState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\EndScreenState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Constants.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Constants.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Renderer2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Renderer2D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\OrthoCamera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shaders\\quad.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Batch.hpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Batch.hpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\vec2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\simd\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\simd\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\vec4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\fwd.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\fwd.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\stb\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_ds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\stb\\stb_ds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\SnakeGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\MenuState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\GameStateContext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\gApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\gApplication.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\GameStateContext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\GameState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameMetadata.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\GameMetadata.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\State\\InGameState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Food.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Level.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\fonts\\ubuntu.regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\fonts\\ubuntu.regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Entity\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\RendererAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Entity\\Text.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Entity\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Buffer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\2D\\OrthoCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\glfw\\glfwWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glTexture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glBuffer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glRendererAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glRendererAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\ResourceLoader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\ResourceLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Font.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\Shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\MouseCodes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\MouseCodes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Snake2D\\engine\\src\\Core\\Config\\AssetPaths.hpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\glfw\\glfwWindow.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\functional||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\RendererAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\RenderCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Graphics\\RenderCommand.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake2D\\Snake2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\KeyCodes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\KeyCodes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\shaders\\text.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\Event.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Event\\Event.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Platform\\opengl\\glBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\WindowEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Event\\WindowEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\MouseEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Event\\MouseEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\KeyEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Event\\KeyEvent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Time.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glad_opengl\\include\\glad\\glad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glad_opengl\\include\\glad\\glad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glfw\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\array||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\src\\wgl_context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glfw\\src\\wgl_context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\detail\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\libs\\glm\\glm\\detail\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine\\src\\Core\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 51,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitmodules",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\.gitmodules",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\.gitmodules",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\.gitmodules",
+              "RelativeToolTip": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\.gitmodules",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T18:20:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "quad.vert",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.vert",
+              "RelativeDocumentMoniker": "assets\\shaders\\quad.vert",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.vert",
+              "RelativeToolTip": "assets\\shaders\\quad.vert",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T13:31:25.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TextBatch.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Batching\\TextBatch.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T13:33:00.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpriteBatch.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T14:00:45.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TextBatch.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Batching\\TextBatch.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T23:23:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrthoCamera.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\OrthoCamera.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\OrthoCamera.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:38:48.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Batch.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Batch.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Batch.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Batch.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Batch.hpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-01T17:49:16.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Renderer2D.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Renderer2D.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Renderer2D.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T12:39:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Window.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Window.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\Window.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T13:02:57.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpriteBatch.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Batching\\SpriteBatch.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T17:02:24.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Renderer2D.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Renderer2D.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Renderer2D.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Renderer2D.hpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T12:35:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-26T20:43:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "engine\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\CMakeLists.txt",
+              "RelativeToolTip": "engine\\CMakeLists.txt",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T17:35:16.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quad.frag",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.frag",
+              "RelativeDocumentMoniker": "assets\\shaders\\quad.frag",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\quad.frag",
+              "RelativeToolTip": "assets\\shaders\\quad.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T13:30:49.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Transformable2D.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Entity\\Transformable2D.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T14:26:13.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Snake2D.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\Snake2D.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.cpp",
+              "RelativeToolTip": "Snake2D\\Snake2D.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T17:35:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InGameState.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\InGameState.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\InGameState.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T21:30:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "gApplication.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\gApplication.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\gApplication.hpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T23:35:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuState.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\MenuState.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\MenuState.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T20:36:28.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnakeGame.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\SnakeGame.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.cpp",
+              "RelativeToolTip": "Snake2D\\src\\SnakeGame.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:45:59.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "stb_ds.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_ds.h",
+              "RelativeDocumentMoniker": "engine\\libs\\stb\\stb_ds.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_ds.h",
+              "RelativeToolTip": "engine\\libs\\stb\\stb_ds.h",
+              "ViewState": "AQIAANQCAAAAAAAAAAAAAPcCAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:02:23.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fwd.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\fwd.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\fwd.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\fwd.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\fwd.hpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:03:56.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "vec4.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec4.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\vec4.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec4.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\vec4.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:03:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "common.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\common.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\common.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\common.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\common.hpp",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:04:04.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\simd\\common.h",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\simd\\common.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\simd\\common.h",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\simd\\common.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:04:28.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "vec2.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec2.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\vec2.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\vec2.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\vec2.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:04:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "vector_bool2.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\ext\\vector_bool2.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:04:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SnakeGame.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\SnakeGame.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\SnakeGame.hpp",
+              "RelativeToolTip": "Snake2D\\src\\SnakeGame.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T11:58:38.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuState.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\MenuState.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\MenuState.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\MenuState.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T23:22:16.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\matrix.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\matrix.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\matrix.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\matrix.hpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:04:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "Snake2D\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\CMakeLists.txt",
+              "RelativeToolTip": "Snake2D\\CMakeLists.txt",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-26T20:43:03.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_image.h",
+              "RelativeDocumentMoniker": "engine\\libs\\stb\\stb_image.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\stb\\stb_image.h",
+              "RelativeToolTip": "engine\\libs\\stb\\stb_image.h",
+              "ViewState": "AQIAAHUXAAAAAAAAAAAcwIQbAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T19:31:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GameStateContext.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\GameStateContext.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\GameStateContext.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T15:29:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EndScreenState.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\EndScreenState.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\EndScreenState.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T14:44:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EndScreenState.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\EndScreenState.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\EndScreenState.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\EndScreenState.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T14:44:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "gApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\gApplication.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\gApplication.cpp",
+              "RelativeToolTip": "engine\\src\\Core\\gApplication.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T13:37:04.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "glTexture.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glTexture.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.cpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glTexture.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T10:31:18.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Board.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Board.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:42:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Snake.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Snake.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAlwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T23:38:05.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GameState.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameState.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\GameState.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameState.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\GameState.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T23:15:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameStateContext.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\GameStateContext.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameStateContext.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\GameStateContext.hpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T21:18:37.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GameMetadata.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameMetadata.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\GameMetadata.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\GameMetadata.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\GameMetadata.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T12:36:38.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "InGameState.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\State\\InGameState.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\State\\InGameState.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\State\\InGameState.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T21:30:16.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Food.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Food.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T23:14:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Board.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Board.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Board.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Board.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T16:34:08.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Food.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Food.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Food.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Food.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T23:09:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.cpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Level.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.cpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Level.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwDIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:43:37.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constants.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Constants.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Constants.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Constants.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Constants.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T17:01:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Level.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Level.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Level.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Level.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T23:46:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "glShader.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glShader.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.cpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glShader.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T12:04:20.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Font.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Font.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Font.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T21:02:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.frag",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.frag",
+              "RelativeDocumentMoniker": "assets\\shaders\\text.frag",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.frag",
+              "RelativeToolTip": "assets\\shaders\\text.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T13:32:22.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ubuntu.regular.ttf",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\fonts\\ubuntu.regular.ttf",
+              "RelativeDocumentMoniker": "assets\\fonts\\ubuntu.regular.ttf",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\fonts\\ubuntu.regular.ttf",
+              "RelativeToolTip": "assets\\fonts\\ubuntu.regular.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG7SURBVDhPxZIxa5NRFIafc2\u002BbmGpt0VYoEbdvyCR0jJPGycUM6o/QX5AhASE/wH/gJATJ1i1D10IXpxKKJcEUpBbjUCvpvd/33eOQfGnSZHDzwOGe\u002B3Le577DlWKxaHO5nPAPJSKoauj3\u002BwEAVZV2u71XLpef3FxeViJihsOha7Va75rNZhuATqez771T55w65yfnTHunznt13qv3XkejkXa7Xd9oNF4BGADV7I3JoDod0ew\u002BFqy1hBBWq9Xqp1qtVjVTqyohhHGrEnQyh4BOzNkZRRGlUilXqVTem1njHGSJpqrTNsaQz\u002BdX5wBJkuB9wsngkjiOieMY7/0CICsRUZOJ2dLX0ys\u002Bd87xPiFN04UkNyFzCdI0cPr9F4dHF\u002Bwf/pxoM5CwCDEKU/HL8W/W1ywPty0f987mzCEEgi5JsFYoaLZwdn7B1obw5vldBn8sR98u5wCZ\u002BbrBJEmCqjL44bCFWzzYusOjndu8frbJyTAlXWocm0ExV84JwM49c/D08TorVri/mefti21e7m4crFg7jTwbPftpUq/XP0RRtJuRQ9DrHwkYYxARRAQjBjHjWUTo9Xr9GeJ/qr/Ef6iAf0ycBAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-14T17:06:28.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Texture.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Texture.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:46:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Snake.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.h",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Entity\\Snake.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Entity\\Snake.h",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Entity\\Snake.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:43:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GameDifficulty.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp",
+              "RelativeDocumentMoniker": "Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp",
+              "RelativeToolTip": "Snake2D\\src\\Game\\Enum\\GameDifficulty.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:19:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-28T20:44:51.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Image.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Image.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Image.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T16:18:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T23:01:49.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Image.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Image.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Image.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Image.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T16:11:40.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Texture.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Texture.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Texture.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Texture.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:46:22.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RendererAPI.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.h",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\RendererAPI.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.h",
+              "RelativeToolTip": "engine\\src\\Graphics\\RendererAPI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:46:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Text.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Entity\\Text.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Entity\\Text.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T21:38:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Text.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Entity\\Text.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Text.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Entity\\Text.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T00:02:15.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Sprite.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Entity\\Sprite.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:37:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\Entity\\Sprite.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T17:08:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Buffer.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Buffer.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Buffer.hpp",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAcwGcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:20:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Buffer.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Buffer.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Buffer.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Buffer.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T19:49:21.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrthoCamera.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\2D\\OrthoCamera.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\2D\\OrthoCamera.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\2D\\OrthoCamera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:38:47.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "glfwWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\glfw\\glfwWindow.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.cpp",
+              "RelativeToolTip": "engine\\src\\Platform\\glfw\\glfwWindow.cpp",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAcwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T17:13:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Window.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Window.cpp",
+              "RelativeToolTip": "engine\\src\\Core\\Window.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T12:39:58.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Camera.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Camera.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Camera.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Camera.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Camera.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T16:46:36.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "glTexture.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glTexture.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glTexture.hpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glTexture.hpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-09T18:19:05.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "glBuffer.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glBuffer.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.hpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glBuffer.hpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T20:27:55.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "glRendererAPI.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glRendererAPI.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.cpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glRendererAPI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T17:01:04.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "glRendererAPI.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.h",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glRendererAPI.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glRendererAPI.h",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glRendererAPI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T17:04:39.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "glShader.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.h",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glShader.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glShader.h",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glShader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T12:03:56.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ResourceLoader.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\ResourceLoader.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\ResourceLoader.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T12:01:01.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ResourceLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\ResourceLoader.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\ResourceLoader.cpp",
+              "RelativeToolTip": "engine\\src\\Core\\ResourceLoader.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T19:56:46.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Font.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Font.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Font.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Font.hpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T18:39:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Shader.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Shader.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\Shader.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\Shader.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\Shader.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T12:01:28.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MouseCodes.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\MouseCodes.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\MouseCodes.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\MouseCodes.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\MouseCodes.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T19:23:40.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AssetPaths.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\src\\Core\\Config\\AssetPaths.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\src\\Core\\Config\\AssetPaths.hpp",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\src\\Core\\Config\\AssetPaths.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\src\\Core\\Config\\AssetPaths.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T15:23:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "glfwWindow.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\glfw\\glfwWindow.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\glfw\\glfwWindow.hpp",
+              "RelativeToolTip": "engine\\src\\Platform\\glfw\\glfwWindow.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T13:05:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "ViewState": "AQIAAHoWAAAAAAAAAAAEwKoWAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-11T19:46:59.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "functional",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\functional",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\functional",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\functional",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\functional",
+              "ViewState": "AQIAAEMEAAAAAAAAAAAEwFIEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-11T19:49:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RendererAPI.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\RendererAPI.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RendererAPI.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\RendererAPI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T18:46:51.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RenderCommand.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\RenderCommand.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.cpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\RenderCommand.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T17:48:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RenderCommand.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Graphics\\RenderCommand.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Graphics\\RenderCommand.hpp",
+              "RelativeToolTip": "engine\\src\\Graphics\\RenderCommand.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T21:02:56.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Snake2D.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.h",
+              "RelativeDocumentMoniker": "Snake2D\\Snake2D.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\Snake2D\\Snake2D.h",
+              "RelativeToolTip": "Snake2D\\Snake2D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T13:44:04.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "KeyCodes.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\KeyCodes.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\KeyCodes.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\KeyCodes.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\KeyCodes.hpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T19:23:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "text.vert",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.vert",
+              "RelativeDocumentMoniker": "assets\\shaders\\text.vert",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\assets\\shaders\\text.vert",
+              "RelativeToolTip": "assets\\shaders\\text.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-25T13:32:23.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Event.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\Event.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Event\\Event.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\Event.hpp",
+              "RelativeToolTip": "engine\\src\\Event\\Event.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T18:00:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility",
+              "ViewState": "AQIAACMBAAAAAAAAAAAqwDQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T21:30:07.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "glBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Platform\\opengl\\glBuffer.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Platform\\opengl\\glBuffer.cpp",
+              "RelativeToolTip": "engine\\src\\Platform\\opengl\\glBuffer.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAvwFUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T18:21:58.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMakePresets.json",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakePresets.json",
+              "RelativeDocumentMoniker": "CMakePresets.json",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\CMakePresets.json",
+              "RelativeToolTip": "CMakePresets.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T13:50:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "WindowEvent.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\WindowEvent.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Event\\WindowEvent.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\WindowEvent.hpp",
+              "RelativeToolTip": "engine\\src\\Event\\WindowEvent.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T19:23:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "MouseEvent.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\MouseEvent.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Event\\MouseEvent.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\MouseEvent.hpp",
+              "RelativeToolTip": "engine\\src\\Event\\MouseEvent.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T18:00:19.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "KeyEvent.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\KeyEvent.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Event\\KeyEvent.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Event\\KeyEvent.hpp",
+              "RelativeToolTip": "engine\\src\\Event\\KeyEvent.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T23:18:11.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.h",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Input.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.h",
+              "RelativeToolTip": "engine\\src\\Core\\Input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T23:36:05.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Time.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.hpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Time.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.hpp",
+              "RelativeToolTip": "engine\\src\\Core\\Time.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T19:23:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Time.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Time.cpp",
+              "RelativeToolTip": "engine\\src\\Core\\Time.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T16:21:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
+              "ViewState": "AQIAAFkNAAAAAAAAAAAcwGkNAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T19:46:17.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T19:24:41.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "glfw3.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "engine\\libs\\glfw\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "engine\\libs\\glfw\\include\\GLFW\\glfw3.h",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T15:07:19.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "glad.h",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glad_opengl\\include\\glad\\glad.h",
+              "RelativeDocumentMoniker": "engine\\libs\\glad_opengl\\include\\glad\\glad.h",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glad_opengl\\include\\glad\\glad.h",
+              "RelativeToolTip": "engine\\libs\\glad_opengl\\include\\glad\\glad.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T15:09:09.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "array",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\array",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\array",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\array",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\array",
+              "ViewState": "AQIAAAUCAAAAAAAAAAApwBQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-28T20:48:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "xtree",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xtree",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xtree",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xtree",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xtree",
+              "ViewState": "AQIAADgGAAAAAAAAAAAAwEUGAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T21:05:50.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "wgl_context.c",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\src\\wgl_context.c",
+              "RelativeDocumentMoniker": "engine\\libs\\glfw\\src\\wgl_context.c",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glfw\\src\\wgl_context.c",
+              "RelativeToolTip": "engine\\libs\\glfw\\src\\wgl_context.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-01T13:11:05.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T13:50:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "licence.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\licence.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\licence.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Snake2D\\engine\\licence.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\User\\Downloads\\Snake2D\\engine\\licence.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-26T20:43:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "setup.hpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\detail\\setup.hpp",
+              "RelativeDocumentMoniker": "engine\\libs\\glm\\glm\\detail\\setup.hpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\libs\\glm\\glm\\detail\\setup.hpp",
+              "RelativeToolTip": "engine\\libs\\glm\\glm\\detail\\setup.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T15:59:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.cpp",
+              "RelativeDocumentMoniker": "engine\\src\\Core\\Input.cpp",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\Snake2D\\engine\\src\\Core\\Input.cpp",
+              "RelativeToolTip": "engine\\src\\Core\\Input.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T20:00:15.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
