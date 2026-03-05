@@ -19,7 +19,7 @@ TextBatch::TextBatch()
         BufferElement("a_Color", ShaderDataType::Float3)
         });
     m_VertexArray->AddVertexBuffer(vertexBuffer);
-    m_VertexArray->SetIndexBuffer(AllocateIndices({ 0,3,2, 2,1,0 }, VERTICES_PER_CHARACTER, MAX_ÑHARACTERS_NUM));
+    m_VertexArray->SetIndexBuffer(AllocateIndices({ 0,3,2, 2,1,0 }, VERTICES_PER_CHARACTER, MAX_CHARACTERS_NUM));
 }
 
 void TextBatch::AddObjectInternal(const Text& text)
@@ -121,5 +121,5 @@ void TextBatch::Reset()
 
 bool TextBatch::IsOverflow() const
 {
-    return m_CharacterID + 6 >= VERTICES_PER_CHARACTER * MAX_ÑHARACTERS_NUM;
+    return m_CharacterID + 6 >= VERTICES_PER_CHARACTER * MAX_CHARACTERS_NUM;
 }

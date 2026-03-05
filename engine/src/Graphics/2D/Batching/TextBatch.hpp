@@ -14,7 +14,7 @@ struct TextVertex {
 class TextBatch : public Batch<Text>
 {
 private:
-	static constexpr int MAX_ÑHARACTERS_NUM = 2000;
+	static constexpr int MAX_CHARACTERS_NUM = 2000;
 	static constexpr int VERTICES_PER_CHARACTER = 4;
 	static constexpr int INDICES_PER_CHARACTER = 6;
 public:
@@ -29,6 +29,6 @@ protected:
 private:
 	const class Font* m_DefaultFont;
 	VertexArray* m_VertexArray;
-	std::array<TextVertex, MAX_ÑHARACTERS_NUM*VERTICES_PER_CHARACTER> m_Vertices;
+	std::array<TextVertex, MAX_CHARACTERS_NUM*VERTICES_PER_CHARACTER> m_Vertices;
 	int m_CharacterID = 0;
 };
